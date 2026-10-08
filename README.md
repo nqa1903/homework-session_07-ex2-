@@ -65,8 +65,6 @@ To                         Action      From
 8082/tcp (v6)              ALLOW IN    Anywhere (v6)
 ```
 
-![Kết quả sudo ufw status verbose](images/01-ufw-status-verbose.png)
-
 ## 5. Đối chiếu với kết quả mong đợi
 
 | Yêu cầu | Kết quả |
